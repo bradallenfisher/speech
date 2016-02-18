@@ -23,3 +23,7 @@ yum install swig
 ```bash
 pip install pocketsphinx
 ```
+
+```bash
+pip install pyaudio
+```
